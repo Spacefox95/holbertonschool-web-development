@@ -14,7 +14,7 @@ the main tags and attributes used in this markup langage.
 - `HTML Foundations`: HTML tags, attributes and content (a, img, !--comments--...)
 - `HTML - Semantic sectioning elements`: Deeper study of the structural elements : header, footer, main, section, article, navigation, aside, heading...
 - `HTML Semantic Elements`: Explanation of the meaning of some elements. Explanation of why use h1 instead of a div for example.
-- `HTML Validation`: W3C validator and different way of checking your HTML code.
+- `HTML Validation`: W3C validator and different ways of checking your HTML code.
 
 ## Author
 
