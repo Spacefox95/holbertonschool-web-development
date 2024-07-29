@@ -4,7 +4,7 @@
 
 ## Description
 
-This directory is dedicated to learn standard html elements. The gloal of this project is to recreate a webpage already designed on figma (check the upon image). So, I had to implement every parts of this page in order to duplicate it in HTML only for now. It includes a doctype, the html langage, the meta charset, a head, a body containing a header, a main and a footer. This page also contains titles of different types, images and videos to learn all
+This directory is dedicated to learn standard html elements. The gloal of this project is to recreate a webpage already designed on figma (check the upon image). So, I had to implement every part of this page in order to duplicate it in HTML only for now. It includes a doctype, the html langage, the meta charset, a head, a body containing a header, a main and a footer. This page also contains titles of different types, images and videos to learn all
 the main tags and attributes used in this markup langage.
 
 ## :file_folder: Concepts
